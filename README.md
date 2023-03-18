@@ -27,7 +27,7 @@ E-mail: andersonprrsantos@gmail.com
 ## Projetos
 Aqui estão alguns projetos que desenvolvi recentemente:
 
-### Jogo da Velha ou Tic Tac Toe </br>
+### *Jogo da Velha ou Tic Tac Toe* </br>
 O Tic Tac Toe é um quebra-cabeça lógico e clássico de regras extremamente simples para dois jogadores. </br>
 É possivel jogar contra o Computadr ou contra amigos.</br>
 A aplicação é construída com React Native.</br>
@@ -39,7 +39,7 @@ Styled-Components</br>
 TypeScript</br>
 React Hooks</br>
 
-GitHub: https://github.com/anderood/tic-tac-toe
+GitHub: https://github.com/anderood/tic-tac-toe </br>
 
 Visualizações do perfil: </br></br>
 ![](https://komarev.com/ghpvc/?username=anderood)
