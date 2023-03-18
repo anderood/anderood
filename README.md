@@ -1,17 +1,28 @@
+# Anderson Santos ou ANDER00D
+Olá, seja bem-vindo ao meu perfil! </br> 
+Meu nome é Anderson Santos, também conhecido como ANDER00D. </br>
+Sou um desenvolvedor de software com mais de 2 anos de experiência em projetos de front-end e back-end.
 
-# Anderson Santos ou ANDER00D.
+## Habilidades </br>
 
-Olá, seja bem-vindo ao meu perfil! </br>
-Meu nome é Anderson Santos, também conhecido como ANDER00D. </br></br>
-Sou um desenvolvedor de software com mais de 2 anos de experiência em projetos de front-end e back-end. </br>
-Tenho habilidades em PHP, JQuery, MySQL e outras tecnologias relacionadas ao desenvolvimento web,  </br>
-Sempre buscando aprender e colocar em prática o que tenho aprendido. </br>
+Tenho habilidades em:
+
+PHP </br>
+JQuery </br>
+MySQL </br>
+ReactJS </br>
+ReactNative </br>
+NodeJS </br>
+</br>
+Sempre busco aprender e colocar em prática o que tenho aprendido.
+
+## Colaboração
 Estou sempre aberto a colaborar em projetos open-source e ajudar outros desenvolvedores a aprenderem novas habilidades. </br>
 Se você estiver interessado em colaborar comigo em algum projeto, sinta-se à vontade para entrar em contato.
 
 ## Informações de Contato:</br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonprrsantos/)](https://www.linkedin.com/in/andersonprrsantos/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andersonprrsantos@gmail.com)](mailto:andersonprrsantos@gmail.com)
+LinkedIn: https://www.linkedin.com/in/andersonprrsantos/</br>
+E-mail: andersonprrsantos@gmail.com
 
 ## Projetos
 Aqui estão alguns projetos que desenvolvi recentemente:
