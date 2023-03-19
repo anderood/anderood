@@ -7,12 +7,13 @@ Sou um desenvolvedor de software com mais de 2 anos de experiência em projetos 
 
 Tenho habilidades em:
 
-PHP </br>
-JQuery </br>
-MySQL </br>
-ReactJS </br>
-ReactNative </br>
-NodeJS </br>
+- PHP 
+- JQuery 
+- MySQL 
+- ReactJS 
+- ReactNative
+- NodeJS 
+- Docker
 </br>
 Sempre busco aprender e colocar em prática o que tenho aprendido.
 
@@ -34,12 +35,12 @@ A aplicação é construída com React Native.</br>
 
 Utilizei as seguintes tecnologias:</br>
 
-React Native - Expo</br>
-Styled-Components</br>
-TypeScript</br>
-React Hooks</br>
+- React Native - Expo
+- Styled-Components
+- TypeScript
+- React Hooks
 
-GitHub: https://github.com/anderood/tic-tac-toe </br>
+GitHub: https://github.com/anderood/tic-tac-toe </br></br>
 
 Visualizações do perfil: </br></br>
 ![](https://komarev.com/ghpvc/?username=anderood)
